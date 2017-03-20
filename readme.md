@@ -1,5 +1,5 @@
-#probando con Github
-##clase de digitalhouse
+# probando con Github
+## Clase de Digitalhouse
 
 1. item
 2. item
